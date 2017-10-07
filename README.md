@@ -8,11 +8,13 @@ https://coderwall.com/p/myzvmg/circular-dependencies-in-node-js
 https://gist.github.com/lperrin/5934098
 
 `node index.js`
+
 `will see an error TypeError: moduleA is not a constructor`
 
 ## How to fix
 
 ### Update `a.js` with below code and do `node index.js`
+
 ```
 
 class ModuleA {
