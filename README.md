@@ -7,6 +7,8 @@ https://coderwall.com/p/myzvmg/circular-dependencies-in-node-js
 
 https://gist.github.com/lperrin/5934098
 
+https://nodejs.org/api/modules.html#modules_cycles
+
 `node index.js`
 
 `will see an error TypeError: moduleA is not a constructor`
